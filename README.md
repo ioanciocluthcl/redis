@@ -12,5 +12,5 @@ For running redis-stack in Docker, use the below command:
 
 ## REST API
 This application provides two rest APIs:
-* http://localhost:8080/students - POST - Adds a new student to DB
+* http://localhost:8080/students - POST - Saves a (new) student to DB
 * http://localhost:8080/students - GET - Gets all students from DB
